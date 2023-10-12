@@ -1,0 +1,93 @@
+Target: 97 Tollerance: 47
+Target: 97 Tollerance: 46
+Target: 97 Tollerance: 45
+Target: 97 Tollerance: 44
+Target: 97 Tollerance: 43
+Target: 97 Tollerance: 42
+Target: 97 Tollerance: 41
+Target: 97 Tollerance: 40
+Target: 97 Tollerance: 39
+Target: 97 Tollerance: 38
+Target: 97 Tollerance: 37
+Target: 97 Tollerance: 36
+Target: 97 Tollerance: 35
+Target: 97 Tollerance: 34
+Target: 97 Tollerance: 33
+Target: 97 Tollerance: 32
+Target: 97 Tollerance: 31
+Target: 97 Tollerance: 30
+Target: 97 Tollerance: 29
+Target: 97 Tollerance: 28
+Target: 97 Tollerance: 27
+Target: 97 Tollerance: 26
+Target: 97 Tollerance: 25
+Target: 97 Tollerance: 24
+Target: 97 Tollerance: 23
+Target: 97 Tollerance: 22
+Target: 97 Tollerance: 21
+Target: 97 Tollerance: 20
+Target: 97 Tollerance: 19
+Target: 97 Tollerance: 18
+Target: 97 Tollerance: 17
+Target: 97 Tollerance: 16
+Target: 97 Tollerance: 15
+Target: 97 Tollerance: 14
+Target: 97 Tollerance: 13
+Target: 97 Tollerance: 12
+Target: 97 Tollerance: 11
+-1.754533052444458 109
+13.021387219429016 68
+5.633427083492279 109
+Target: 97 Tollerance: 10
+-1.754533052444458 109
+13.021387219429016 68
+5.633427083492279 109
+Target: 97 Tollerance: 9
+-1.754533052444458 109
+13.021387219429016 68
+5.633427083492279 109
+Target: 97 Tollerance: 8
+-1.754533052444458 109
+13.021387219429016 68
+5.633427083492279 109
+Target: 97 Tollerance: 7
+-1.754533052444458 109
+13.021387219429016 68
+5.633427083492279 109
+Target: 97 Tollerance: 6
+-1.754533052444458 109
+13.021387219429016 68
+5.633427083492279 109
+Target: 97 Tollerance: 5
+-1.754533052444458 109
+13.021387219429016 68
+5.633427083492279 109
+Target: 97 Tollerance: 4
+-1.754533052444458 109
+13.021387219429016 68
+5.633427083492279 109
+Target: 97 Tollerance: 3
+-1.754533052444458 109
+13.021387219429016 68
+5.633427083492279 109
+Target: 97 Tollerance: 2
+-1.754533052444458 109
+13.021387219429016 68
+5.633427083492279 109
+Target: 97 Tollerance: 1
+-1.754533052444458 109
+13.021387219429016 68
+5.633427083492279 109
+Target: 97 Tollerance: 0
+-1.754533052444458 109
+13.021387219429016 68
+5.633427083492279 109
+9.327407151460648 98
+11.174397185444832 84
+10.25090216845274 90
+9.789154659956694 95
+9.55828090570867 98
+9.673717782832682 96
+
+
+97 9.615999344270676 0

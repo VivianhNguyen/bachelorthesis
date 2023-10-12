@@ -1,0 +1,16 @@
+# from ./usedData/butteredAndNorm/BN1walkingp32006_20hz.txt - features: range(0, 78) - windowduration: 30 - totalDur: 420
+1walkingp32006_20hz
+1walkingp32006_20hz
+1walkingp32006_20hz
+1walkingp32006_20hz
+1walkingp32006_20hz
+1walkingp32006_20hz
+1walkingp32006_20hz
+1walkingp32006_20hz
+1walkingp32006_20hz
+1walkingp32006_20hz
+1walkingp32006_20hz
+1walkingp32006_20hz
+1walkingp32006_20hz
+1walkingp32006_20hz
+1walkingp32006_20hz

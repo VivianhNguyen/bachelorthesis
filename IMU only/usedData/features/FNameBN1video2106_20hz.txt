@@ -1,0 +1,14 @@
+# from ./usedData/butteredAndNorm/BN1video2106_20hz.txt - features: range(0, 78) - windowduration: 30 - totalDur: 360
+1video2106_20hz
+1video2106_20hz
+1video2106_20hz
+1video2106_20hz
+1video2106_20hz
+1video2106_20hz
+1video2106_20hz
+1video2106_20hz
+1video2106_20hz
+1video2106_20hz
+1video2106_20hz
+1video2106_20hz
+1video2106_20hz

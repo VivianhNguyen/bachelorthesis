@@ -1,0 +1,81 @@
+Target: 92 Tollerance: 45
+Target: 92 Tollerance: 44
+Target: 92 Tollerance: 43
+Target: 92 Tollerance: 42
+Target: 92 Tollerance: 41
+Target: 92 Tollerance: 40
+Target: 92 Tollerance: 39
+Target: 92 Tollerance: 38
+Target: 92 Tollerance: 37
+Target: 92 Tollerance: 36
+Target: 92 Tollerance: 35
+Target: 92 Tollerance: 34
+Target: 92 Tollerance: 33
+Target: 92 Tollerance: 32
+Target: 92 Tollerance: 31
+Target: 92 Tollerance: 30
+Target: 92 Tollerance: 29
+Target: 92 Tollerance: 28
+Target: 92 Tollerance: 27
+Target: 92 Tollerance: 26
+Target: 92 Tollerance: 25
+Target: 92 Tollerance: 24
+Target: 92 Tollerance: 23
+Target: 92 Tollerance: 22
+Target: 92 Tollerance: 21
+Target: 92 Tollerance: 20
+Target: 92 Tollerance: 19
+Target: 92 Tollerance: 18
+Target: 92 Tollerance: 17
+1.9983744621276855 110
+Target: 92 Tollerance: 16
+1.9983744621276855 110
+Target: 92 Tollerance: 15
+1.9983744621276855 110
+Target: 92 Tollerance: 14
+1.9983744621276855 110
+Target: 92 Tollerance: 13
+1.9983744621276855 110
+Target: 92 Tollerance: 12
+1.9983744621276855 110
+Target: 92 Tollerance: 11
+1.9983744621276855 110
+Target: 92 Tollerance: 10
+1.9983744621276855 110
+Target: 92 Tollerance: 9
+1.9983744621276855 110
+Target: 92 Tollerance: 8
+1.9983744621276855 110
+Target: 92 Tollerance: 7
+1.9983744621276855 110
+Target: 92 Tollerance: 6
+1.9983744621276855 110
+Target: 92 Tollerance: 5
+1.9983744621276855 110
+Target: 92 Tollerance: 4
+1.9983744621276855 110
+Target: 92 Tollerance: 3
+1.9983744621276855 110
+Target: 92 Tollerance: 2
+1.9983744621276855 110
+29.927995920181274 95
+43.89280664920807 51
+36.91040128469467 72
+33.41919860243797 83
+Target: 92 Tollerance: 1
+1.9983744621276855 110
+29.927995920181274 95
+43.89280664920807 51
+36.91040128469467 72
+33.41919860243797 83
+31.673597261309624 90
+Target: 92 Tollerance: 0
+1.9983744621276855 110
+29.927995920181274 95
+43.89280664920807 51
+36.91040128469467 72
+33.41919860243797 83
+31.673597261309624 90
+
+
+92 30.80079659074545 1

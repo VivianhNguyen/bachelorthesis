@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06e23d54-5615-4634-8f04-f6d43bff53c8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROp4ECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q6ZQIY0YDDp4rpp4lFKyu6tIU6BH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROp4ECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Gras/cse3000-earable-computing/Python/AudioPlotter",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06e23d54-5615-4634-8f04-f6d43bff53c8" name="Changes" comment="" />
+      <created>1684675973446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684675973446</updated>
+      <workItem from="1684675974714" duration="5172000" />
+      <workItem from="1684733669490" duration="1606000" />
+      <workItem from="1686070720786" duration="7337000" />
+      <workItem from="1686167020328" duration="5425000" />
+      <workItem from="1686219204490" duration="2220000" />
+      <workItem from="1686262280396" duration="2332000" />
+      <workItem from="1686264700707" duration="73000" />
+      <workItem from="1686264784190" duration="6964000" />
+      <workItem from="1686320059851" duration="4363000" />
+      <workItem from="1686326301062" duration="6092000" />
+      <workItem from="1686405446796" duration="4000" />
+      <workItem from="1686769004670" duration="2844000" />
+      <workItem from="1686786878173" duration="3049000" />
+      <workItem from="1686933004274" duration="318000" />
+      <workItem from="1686935596455" duration="2592000" />
+      <workItem from="1686997983886" duration="93000" />
+      <workItem from="1686999553061" duration="3418000" />
+      <workItem from="1687017030645" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

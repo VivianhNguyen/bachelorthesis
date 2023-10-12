@@ -1,0 +1,129 @@
+import librosa
+import os
+import sys
+import numpy as np
+import matplotlib.pyplot as plt
+import scipy.signal as signal
+
+"""
+Returns the minimum and maximum value of the filtered signal
+
+@param path: the path to the audio file
+@return: the minimum and maximum value of the filtered signal
+"""
+def getMinMax(path):
+    # get audio file
+    audio, sr = librosa.load(path, sr=11025)
+
+    # rectify audio file
+    rectified_audio = np.abs(audio)
+
+    # Define the filter specifications
+    order = 5
+    cutoff_freq = 2  # Hz
+
+    # Normalize the cutoff frequency
+    normalized_cutoff = cutoff_freq / (sr / 2)
+
+    # Compute the digital Butterworth filter coefficients
+    b, a = signal.butter(order, normalized_cutoff, btype='low', analog=False, output='ba')
+
+    # Apply the filter to the audio signal
+    filtered_signal = signal.lfilter(b, a, rectified_audio)
+
+    return np.min(filtered_signal), np.max(filtered_signal)
+
+"""
+Analyzes an audio file specified by the command line arguments.
+It applies a Butterworth filter to the audio signal, detects chew events based on a threshold,
+and counts the number of chew events. It also plots the audio signal waveform and marks the detected chew
+events with red dashed lines.
+The chew count is then printed to the console.
+"""
+def main():
+    # Get command line arguments
+    path = sys.argv[1]
+    min_tresh = sys.argv[2]
+
+    # simple checks for quality of life improvements
+    if path == None:
+        print("Specify a path please")
+        sys.exit(0)
+    if not os.path.exists(path):
+        print("Path does not exist")
+        sys.exit(0)
+
+    # simple checks for quality of life improvements
+    if min_tresh == None:
+        print("Specify a minimum treshold please")
+        sys.exit(0)
+
+
+    # get audio file
+    audio, sr = librosa.load(path, sr=11025)
+
+    #rectify audio file
+    rectified_audio = np.abs(audio)
+
+    # Define the filter specifications
+    order = 5
+    cutoff_freq = 2  # Hz
+
+    # Normalize the cutoff frequency
+    normalized_cutoff = cutoff_freq / (sr / 2)
+
+
+    # Compute the digital Butterworth filter coefficients
+    b, a = signal.butter(order, normalized_cutoff, btype='low', analog=False, output='ba')
+
+    # Apply the filter to the audio signal
+    filtered_signal = signal.lfilter(b, a, rectified_audio)
+
+    # set minimum treshold
+    min_treshold = float(min_tresh)
+
+    # set treshold
+    treshold = 0
+
+    chew_count = 0
+
+    from_last_max = 3072
+
+    # frame counter for time stamps
+    count_frame = 0
+    frames = []
+
+    # Check for maximum points based on the condition
+    for i in range(len(filtered_signal) - 3072):
+        from_last_max += 1
+        count_frame += 1
+        if from_last_max > 3072:
+            if filtered_signal[i] > np.max(filtered_signal[i+1: i+3073]):
+                if filtered_signal[i] > treshold:
+                    # time in ms of chew event detection
+                    frames.append(count_frame * (1/11_025))
+
+                    treshold = max(min(filtered_signal[i+3072], min_treshold * 1.25), min_treshold)
+                    chew_count += 1
+                    from_last_max = 0
+
+
+    print(chew_count)
+    # Plot the audio signal waveform
+    plt.figure(figsize=(12, 4))
+    librosa.display.waveshow(filtered_signal, sr=sr)
+
+    # plot lines where we detect chewing
+    for x in frames:
+        plt.axvline(x=x, color='red', linestyle='--')
+
+    plt.xlabel('Time (s)')
+    plt.ylabel('Amplitude')
+    plt.title('Audio Signal Waveform')
+    plt.show()
+
+# Press the green button in the gutter to run the script.
+if __name__ == '__main__':
+    main()
+
+

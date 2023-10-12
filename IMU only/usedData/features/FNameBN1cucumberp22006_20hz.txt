@@ -1,0 +1,6 @@
+# from ./usedData/butteredAndNorm/BN1cucumberp32006_20hz.txt - features: range(0, 78) - windowduration: 30 - totalDur: 120
+1cucumberp32006_20hz
+1cucumberp32006_20hz
+1cucumberp32006_20hz
+1cucumberp32006_20hz
+1cucumberp32006_20hz

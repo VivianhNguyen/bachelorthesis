@@ -1,0 +1,8 @@
+# from ./usedData/butteredAndNorm/BN1walkinginroom1306_20hz.txt - features: range(0, 78) - windowduration: 30 - totalDur: 180
+1walkinginroom1306_20hz
+1walkinginroom1306_20hz
+1walkinginroom1306_20hz
+1walkinginroom1306_20hz
+1walkinginroom1306_20hz
+1walkinginroom1306_20hz
+1walkinginroom1306_20hz

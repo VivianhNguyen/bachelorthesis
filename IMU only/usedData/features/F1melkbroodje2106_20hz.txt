@@ -1,0 +1,8 @@
+# from ./usedData/butteredAndNorm/BN1melkbroodje2106_20hz.txt - features: range(0, 78) - windowduration: 30 - totalDur: 180
+1melkbroodje2106_20hz
+1melkbroodje2106_20hz
+1melkbroodje2106_20hz
+1melkbroodje2106_20hz
+1melkbroodje2106_20hz
+1melkbroodje2106_20hz
+1melkbroodje2106_20hz

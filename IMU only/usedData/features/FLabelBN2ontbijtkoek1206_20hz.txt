@@ -1,0 +1,4 @@
+# from ./usedData/butteredAndNorm/BN2ontbijtkoek1206_20hz.txt - features: range(0, 78) - windowduration: 30 - totalDur: 60
+1.000000000000000000e+00
+1.000000000000000000e+00
+1.000000000000000000e+00

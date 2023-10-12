@@ -1,0 +1,8 @@
+# from ./usedData/butteredAndNorm/BN2reading1306_20hz.txt - features: range(0, 78) - windowduration: 30 - totalDur: 180
+2reading1306_20hz
+2reading1306_20hz
+2reading1306_20hz
+2reading1306_20hz
+2reading1306_20hz
+2reading1306_20hz
+2reading1306_20hz

@@ -1,0 +1,8 @@
+# from ./usedData/butteredAndNorm/BN2sultanap42106_20hz.txt - features: range(0, 78) - windowduration: 30 - totalDur: 180
+2sultanap42106_20hz
+2sultanap42106_20hz
+2sultanap42106_20hz
+2sultanap42106_20hz
+2sultanap42106_20hz
+2sultanap42106_20hz
+2sultanap42106_20hz

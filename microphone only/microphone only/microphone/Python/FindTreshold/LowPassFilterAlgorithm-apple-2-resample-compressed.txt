@@ -1,0 +1,94 @@
+Target: 96 Tollerance: 47
+Target: 96 Tollerance: 46
+Target: 96 Tollerance: 45
+Target: 96 Tollerance: 44
+Target: 96 Tollerance: 43
+Target: 96 Tollerance: 42
+Target: 96 Tollerance: 41
+Target: 96 Tollerance: 40
+Target: 96 Tollerance: 39
+Target: 96 Tollerance: 38
+Target: 96 Tollerance: 37
+Target: 96 Tollerance: 36
+Target: 96 Tollerance: 35
+Target: 96 Tollerance: 34
+Target: 96 Tollerance: 33
+Target: 96 Tollerance: 32
+Target: 96 Tollerance: 31
+Target: 96 Tollerance: 30
+Target: 96 Tollerance: 29
+Target: 96 Tollerance: 28
+Target: 96 Tollerance: 27
+Target: 96 Tollerance: 26
+Target: 96 Tollerance: 25
+Target: 96 Tollerance: 24
+Target: 96 Tollerance: 23
+Target: 96 Tollerance: 22
+Target: 96 Tollerance: 21
+Target: 96 Tollerance: 20
+Target: 96 Tollerance: 19
+Target: 96 Tollerance: 18
+Target: 96 Tollerance: 17
+Target: 96 Tollerance: 16
+Target: 96 Tollerance: 15
+Target: 96 Tollerance: 14
+Target: 96 Tollerance: 13
+Target: 96 Tollerance: 12
+Target: 96 Tollerance: 11
+Target: 96 Tollerance: 10
+Target: 96 Tollerance: 9
+Target: 96 Tollerance: 8
+Target: 96 Tollerance: 7
+Target: 96 Tollerance: 6
+Target: 96 Tollerance: 5
+Target: 96 Tollerance: 4
+Target: 96 Tollerance: 3
+0.26830101013183594 100
+20.105509757995605 1
+10.18690538406372 1
+5.227603197097778 1
+2.747952103614807 1
+1.5081265568733215 1
+0.8882137835025787 1
+0.5782573968172073 36
+0.42327920347452164 85
+0.3457901068031788 100
+Target: 96 Tollerance: 2
+0.26830101013183594 100
+20.105509757995605 1
+10.18690538406372 1
+5.227603197097778 1
+2.747952103614807 1
+1.5081265568733215 1
+0.8882137835025787 1
+0.5782573968172073 36
+0.42327920347452164 85
+0.3457901068031788 100
+Target: 96 Tollerance: 1
+0.26830101013183594 100
+20.105509757995605 1
+10.18690538406372 1
+5.227603197097778 1
+2.747952103614807 1
+1.5081265568733215 1
+0.8882137835025787 1
+0.5782573968172073 36
+0.42327920347452164 85
+0.3457901068031788 100
+0.3845346551388502 98
+Target: 96 Tollerance: 0
+0.26830101013183594 100
+20.105509757995605 1
+10.18690538406372 1
+5.227603197097778 1
+2.747952103614807 1
+1.5081265568733215 1
+0.8882137835025787 1
+0.5782573968172073 36
+0.42327920347452164 85
+0.3457901068031788 100
+0.3845346551388502 98
+0.4039069293066859 95
+
+
+96 0.39422079222276807 0
